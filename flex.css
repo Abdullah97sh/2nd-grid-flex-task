@@ -1,0 +1,75 @@
+.Header1 {
+  min-height: 10vh;
+  background-color: #23d4ff;
+}
+
+header,
+div,
+footer {
+  text-align: center;
+  color: white;
+  font-size: 2vw;
+}
+
+main {
+  display: flex;
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+.rightDiv {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.Hero1 {
+  min-height: 40vh;
+  background-color: #dfcadd;
+  margin-bottom: 1vh;
+  margin-right: 0.5vh;
+}
+.Sidebar1 {
+  min-height: 55vh;
+  background-color: #80c268;
+  margin-right: 0.5vh;
+}
+
+.leftDiv {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.Main1 {
+  min-height: 60vh;
+  background-color: #edc527;
+  margin-bottom: 1vh;
+}
+
+.Extra1 {
+  min-height: 35vh;
+  background-color: #898987;
+}
+
+.bottomDiv {
+  min-height: 15vh;
+  display: flex;
+  margin-bottom: 1vh;
+}
+
+.rImages1 {
+  min-width: 80%;
+  background-color: #00b68d;
+  margin-right: 0.5vh;
+}
+
+.rPosts1 {
+  min-width: 20%;
+  background-color: #fce5e4;
+}
+
+.Footer1 {
+  min-height: 10vh;
+  background-color: #fea500;
+}
